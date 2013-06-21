@@ -1,4 +1,6 @@
 
+# awesome smoking graph
+
 setwd("~/my_homework/ggplot_assignment")
 
 smoking <- read.csv ("training_SyncPatientSmokingStatus.csv")
